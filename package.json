@@ -1,0 +1,25 @@
+{
+  "name": "create-yagss-site",
+  "version": "0.1.0",
+  "description": "Command for setting up a new Yagss project",
+  "scripts": {
+    "create-yagss-site": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esonderegger/create-yagss-site.git"
+  },
+  "keywords": [
+    "yagss",
+    "static",
+    "site",
+    "generator"
+  ],
+  "author": "Evan Sonderegger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esonderegger/create-yagss-site/issues"
+  },
+  "homepage": "https://github.com/esonderegger/create-yagss-site#readme"
+}
