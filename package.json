@@ -1,11 +1,11 @@
 {
   "name": "create-yagss-site",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command for setting up a new Yagss project",
   "scripts": {
-    "create-yagss-site": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "node index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/esonderegger/create-yagss-site.git"
