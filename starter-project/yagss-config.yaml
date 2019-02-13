@@ -1,16 +1,3 @@
 site_url: https://www.example.com
 title: Hello World!
 description: This is your new site made with yagss
-src_dir: src
-dest_dir: public
-templates_dir: templates
-cache_dir: .cache
-scss_file: scss/main.scss
-css_file: main.css
-social_image: /temp
-img_sizes:
-  - 440
-  - 660
-  - 880
-  - 1320
-  - 1760
